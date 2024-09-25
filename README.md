@@ -29,6 +29,35 @@ Quanto o departamento de Vendas gasta em salários?
 R: A média salárial do departamento de vendas é R$9510,00
 
 Um novo departamento foi criado. O departamento de Inovações. Ele será locado no Brasil. Por favor, adicione-o no banco de dados da empresa colocando quaisquer informações que você achar relevantes.
+R:_id
+66f3828ff50c51e4946bdae0
+nome
+"Educação financeira kids"
+localizacao
+"Brasil"
+dataCriacao
+0.0027160493827160493
+responsavel
+"[Gabriel Ferreira Alves]"
+
+objetivos
+Array (3)
+
+projetosEmAndamento
+Array (2)
+
+colaboradores
+Array (2)
+
+recursosNecessarios
+Object
+
+parcerias
+Array (2)
+
+notasAdicionais
+Array (2)
+
 
 O departamento de Inovações está sem funcionários. Inclua alguns colegas de turma nesse departamento.
 
